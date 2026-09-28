@@ -11,12 +11,12 @@ export default function Home() {
   return (
     <>
       {/* 3D Book Cover Intro Overlay */}
-      <BookLoader />
+      {/* <BookLoader /> */}
 
       {/* Main Page Layout */}
       <HeroHeader />
 
-      <main className="max-w-3xl mx-auto px-4 w-full grow space-y-12 mb-16">
+      {/* <main className="max-w-3xl mx-auto px-4 w-full grow space-y-12 mb-16">
         <StoryAndGallery />
         <VenueDetails />
         <Suspense>
@@ -25,7 +25,7 @@ export default function Home() {
         <Suspense>
           <MessageBoard />
         </Suspense>
-      </main>
+      </main> */}
     </>
   )
 }
