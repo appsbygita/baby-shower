@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+        <rect width="200" height="200" fill="#FDF6EC"/>
+        <g opacity="0.33">
+          <!-- Main Terracotta Balloon -->
+          <g transform="translate(30,20)">
+            <ellipse cx="25" cy="30" rx="18" ry="22" fill="#D98A6C"/>
+            <polygon points="23,52 27,52 25,56" fill="#D98A6C"/>
+            <path d="M25,56 Q20,70 28,85" stroke="#4A5D4E" stroke-width="1.5" fill="none" stroke-dasharray="3,2"/>
+            <ellipse cx="19" cy="22" rx="4" ry="7" fill="#FCECDD" opacity="0.6" transform="rotate(-20 19 22)"/>
+          </g>
+
+          <!-- Peach Balloon -->
+          <g transform="translate(130,100)">
+            <ellipse cx="22" cy="28" rx="16" ry="20" fill="#F4A261"/>
+            <polygon points="20,48 24,48 22,52" fill="#F4A261"/>
+            <path d="M22,52 Q28,68 18,80" stroke="#4A5D4E" stroke-width="1.5" fill="none" stroke-dasharray="3,2"/>
+            <ellipse cx="17" cy="20" rx="3" ry="6" fill="#FFFFFF" opacity="0.7" transform="rotate(-20 17 20)"/>
+          </g>
+
+          <!-- Eucalyptus Small Accent Balloon -->
+          <g transform="translate(140,10)">
+            <ellipse cx="18" cy="22" rx="12" ry="15" fill="#4A5D4E"/>
+            <polygon points="16,37 20,37 18,40" fill="#4A5D4E"/>
+            <path d="M18,40 Q14,52 20,62" stroke="#333333" stroke-width="1" fill="none"/>
+          </g>
+
+          <!-- Soft Clouds -->
+          <path d="M 80,120 Q 85,112 95,114 Q 102,108 110,112 Q 118,110 122,118 Q 126,124 120,128 Q 80,130 80,120 Z" fill="#EABBA8" opacity="0.6"/>
+          <path d="M 10,170 Q 15,164 22,165 Q 28,160 34,163 Q 40,161 43,167 Q 46,172 41,175 Q 10,177 10,170 Z" fill="#FCECDD"/>
+
+          <!-- Cute Twinkle Stars -->
+          <!-- Star 1 -->
+          <polygon points="100,25 102,30 107,32 102,34 100,39 98,34 93,32 98,30" fill="#F4A261"/>
+          <!-- Star 2 -->
+          <polygon points="40,130 41,133 44,134 41,135 40,138 39,135 36,134 39,133" fill="#D98A6C"/>
+          <!-- Star 3 -->
+          <polygon points="175,70 176,73 179,74 176,75 175,78 174,75 171,74 174,73" fill="#4A5D4E"/>
+          <!-- Star 4 -->
+          <polygon points="90,170 91,172 93,173 91,174 90,176 89,174 87,173 89,172" fill="#F4A261"/>
+
+          <!-- Polka Dots -->
+          <circle cx="20" cy="90" r="2.5" fill="#EABBA8"/>
+          <circle cx="70" cy="60" r="2" fill="#4A5D4E"/>
+          <circle cx="110" cy="80" r="3" fill="#D98A6C" opacity="0.5"/>
+          <circle cx="180" cy="160" r="2.5" fill="#F4A261"/>
+        </g>
+      </svg>

@@ -1,0 +1,92 @@
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities; */
+
+@import 'tailwindcss';
+
+@layer base {
+  body {
+    background-color: var(--color-cream);
+    background-image: url(/img/toys-15.svg);
+    /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+    color: #333333;
+    font-family: var(--font-sans), system-ui, sans-serif;
+  }
+}
+
+@theme {
+  --color-terracota: #d98a6c;
+  --color-muted-peach: #f4a261;
+  --color-cream: #fdf6ec;
+  --color-eucalyptus: #4a5d4e;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(40px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes book {
+  0% {
+    opacity: 0;
+    transform: translateY(40px);
+  }
+  40% {
+    opacity: 0;
+    transform: translateY(40px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+section {
+  animation: fadeIn 4s ease-in-out;
+  animation-delay: 2.8s;
+}
+
+.message-text {
+  white-space: pre-wrap;
+}
+
+/* 3D Book Flip Perspective Styles */
+.book-perspective {
+  perspective: 1500px;
+}
+
+.whole-book {
+  animation: book 2s ease-in-out;
+}
+
+.book-cover {
+  animation: fadeIn 0.5s ease-in-out;
+  transform-origin: left center;
+  transition:
+    transform 1.4s cubic-bezier(0.645, 0.045, 0.355, 1),
+    opacity 0.4s ease 1s;
+  transform-style: preserve-3d;
+}
+
+.book-open .book-cover {
+  transform: rotateY(-140deg);
+  opacity: 0;
+  pointer-events: none;
+}
+
+.book-overlay {
+  transition:
+    opacity 0.8s ease 1s,
+    visibility 0.8s ease 1.8s;
+}
+
+.book-open.book-overlay {
+  opacity: 0;
+  visibility: hidden;
+}

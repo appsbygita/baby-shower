@@ -1,0 +1,458 @@
+[
+  {
+    "name": "Pdt. Alex Sardo Cesario Saragih",
+    "maxGuests": 3
+  },
+  {
+    "name": "Pdt. Dahlia Vera Aruan",
+    "maxGuests": 3
+  },
+  {
+    "name": "Pdt. Darmawasih Manullang",
+    "maxGuests": 2
+  },
+  {
+    "name": "Pdt. Joas Adiprasetya",
+    "maxGuests": 2
+  },
+  {
+    "name": "Pnt. Abraham Rovialdy Imanka Istamar",
+    "maxGuests": 2
+  },
+  {
+    "name": "Pnt. Agung Surya Handaka",
+    "maxGuests": 2
+  },
+  {
+    "name": "Pnt. Andhika Adiputra",
+    "maxGuests": 2
+  },
+  {
+    "name": "Pnt. Andreas Eka Satria",
+    "maxGuests": 2
+  },
+  {
+    "name": "Pnt. Andree Octavianus Sinaga",
+    "maxGuests": 2
+  },
+  {
+    "name": "Pnt. Anto M. Christian Sihombing",
+    "maxGuests": 2
+  },
+  {
+    "name": "Pnt. Arman Sulaiman",
+    "maxGuests": 2
+  },
+  {
+    "name": "Pnt. Bambang Priantomo",
+    "maxGuests": 2
+  },
+  {
+    "name": "Pnt. Briena Beverly Tuahatu",
+    "maxGuests": 2
+  },
+  {
+    "name": "Pnt. Budi Triaprison Ginting",
+    "maxGuests": 2
+  },
+  {
+    "name": "Pnt. Carita Tamzil",
+    "maxGuests": 2
+  },
+  {
+    "name": "Pnt. Christian Tansil",
+    "maxGuests": 2
+  },
+  {
+    "name": "Pnt. Damelia Falentina",
+    "maxGuests": 2
+  },
+  {
+    "name": "Pnt. Dapot Parulian Panjaitan",
+    "maxGuests": 2
+  },
+  {
+    "name": "Pnt. David Hutagalung",
+    "maxGuests": 2
+  },
+  {
+    "name": "Pnt. Dekky Desman",
+    "maxGuests": 2
+  },
+  {
+    "name": "Pnt. Denny Mudjiprawiro",
+    "maxGuests": 2
+  },
+  {
+    "name": "Pnt. Eldysa Anggrahini W",
+    "maxGuests": 2
+  },
+  {
+    "name": "Pnt. Esther Matiur Yuniari Harahap",
+    "maxGuests": 2
+  },
+  {
+    "name": "Pnt. Felicia Yulianti Bunarsih",
+    "maxGuests": 2
+  },
+  {
+    "name": "Pnt. Glory Henriette Kristanto",
+    "maxGuests": 2
+  },
+  {
+    "name": "Pnt. Gunawan Wiraatmadja",
+    "maxGuests": 2
+  },
+  {
+    "name": "Pnt. Ingrid Kosasih",
+    "maxGuests": 2
+  },
+  {
+    "name": "Pnt. Johny Johan",
+    "maxGuests": 2
+  },
+  {
+    "name": "Pnt. Justine Kang",
+    "maxGuests": 2
+  },
+  {
+    "name": "Pnt. Kristin Bikartikawati ",
+    "maxGuests": 2
+  },
+  {
+    "name": "Pnt. Laksmi Sutanto Tobing",
+    "maxGuests": 2
+  },
+  {
+    "name": "Pnt. Lies Leonardi",
+    "maxGuests": 2
+  },
+  {
+    "name": "Pnt. Liliana Zakaria & Octavius Iwan",
+    "maxGuests": 3
+  },
+  {
+    "name": "Pnt. Lucy Eni Aswan",
+    "maxGuests": 2
+  },
+  {
+    "name": "Pnt. Markus Sugiaman",
+    "maxGuests": 2
+  },
+  {
+    "name": "Pnt. Marta Juslily",
+    "maxGuests": 2
+  },
+  {
+    "name": "Pnt. Megawanti Elisa Soegondo",
+    "maxGuests": 2
+  },
+  {
+    "name": "Pnt. Naniek N. Setijadi",
+    "maxGuests": 2
+  },
+  {
+    "name": "Pnt. Natalia Pandiangan",
+    "maxGuests": 2
+  },
+  {
+    "name": "Pnt. Nikki Maisan Sulistio",
+    "maxGuests": 2
+  },
+  {
+    "name": "Pnt. Ricky Bangsaratoe",
+    "maxGuests": 2
+  },
+  {
+    "name": "Pnt. Rika Martina",
+    "maxGuests": 2
+  },
+  {
+    "name": "Pnt. Sansana Bully Rahardjo",
+    "maxGuests": 2
+  },
+  {
+    "name": "Pnt. Sapto Winarno",
+    "maxGuests": 2
+  },
+  {
+    "name": "Pnt. Suzy Anne Rompas",
+    "maxGuests": 2
+  },
+  {
+    "name": "Pnt. Teguh Prasetyo Budiono Esra Sihombing",
+    "maxGuests": 2
+  },
+  {
+    "name": "Pnt. Telma Bawanda",
+    "maxGuests": 2
+  },
+  {
+    "name": "Pnt. Thea Marianna Kamadjaja ",
+    "maxGuests": 2
+  },
+  {
+    "name": "Pnt. Trisakti Rinastuti",
+    "maxGuests": 2
+  },
+  {
+    "name": "Pnt. Vicky Reinita",
+    "maxGuests": 2
+  },
+  {
+    "name": "Pnt. Youlita J. Karundeng",
+    "maxGuests": 2
+  },
+  {
+    "name": "Pdt. Luisye Sia",
+    "maxGuests": 2
+  },
+  {
+    "name": "Steven Ananta Nugraha",
+    "maxGuests": 2
+  },
+  {
+    "name": "Pdt. EM. Agus Susanto",
+    "maxGuests": 2
+  },
+  {
+    "name": "Pdt. EM. Rudianto Djajakartika",
+    "maxGuests": 2
+  },
+  {
+    "name": "Pdt. EM. Tumpal Tobing",
+    "maxGuests": 2
+  },
+  {
+    "name": "Elisabeth Purboyo",
+    "maxGuests": 2
+  },
+  {
+    "name": "DAISY RATTU",
+    "maxGuests": 2
+  },
+  {
+    "name": "DITA PRAWIRANINGSIH",
+    "maxGuests": 2
+  },
+  {
+    "name": "DWI PANGESTUTI",
+    "maxGuests": 2
+  },
+  {
+    "name": "EDWARD T P SITORUS & LENNY CAROLINA",
+    "maxGuests": 2
+  },
+  {
+    "name": "ERNAWATY BR TAMBA SIHOTANG",
+    "maxGuests": 2
+  },
+  {
+    "name": "EVI SIMANJUNTAK",
+    "maxGuests": 2
+  },
+  {
+    "name": "FABIAN PASCOAL & VONNY PASCOAL",
+    "maxGuests": 2
+  },
+  {
+    "name": "FIRMAN M SILALAHI & DOROTHY AGAPELINA",
+    "maxGuests": 2
+  },
+  {
+    "name": "FREDDY WILMANA & INDRI",
+    "maxGuests": 2
+  },
+  {
+    "name": "HALIM ATMADJA & NINA SUSILO ATMADJA",
+    "maxGuests": 2
+  },
+  {
+    "name": "HOTMA ABIGAIL SIRAIT",
+    "maxGuests": 2
+  },
+  {
+    "name": "ISHAK HATURONGAN & NUGRAHA SITUMEANG (Nugie)",
+    "maxGuests": 2
+  },
+  {
+    "name": "ISNANIA SARWONO",
+    "maxGuests": 2
+  },
+  {
+    "name": "JACOB TOBING & ADRIANA TOBING",
+    "maxGuests": 2
+  },
+  {
+    "name": "JAKUB ZAKARIA & SUSANA ZAKARIA",
+    "maxGuests": 2
+  },
+  {
+    "name": "JANNES HUTAGALUNG & SONDANG HARAHAP",
+    "maxGuests": 2
+  },
+  {
+    "name": "JOICE KAHURIPAN",
+    "maxGuests": 2
+  },
+  {
+    "name": "LAUDIN SIMANJUNTAK & MAGDALENA D SIMANJUNTAK",
+    "maxGuests": 2
+  },
+  {
+    "name": "LUCIA BAMBANG SUBOKO",
+    "maxGuests": 2
+  },
+  {
+    "name": "MARTHARIA SIMATUPANG & THL TOBING",
+    "maxGuests": 2
+  },
+  {
+    "name": "NEFRITIRI WIBOWO",
+    "maxGuests": 2
+  },
+  {
+    "name": "NINNY RUMBAYAN",
+    "maxGuests": 2
+  },
+  {
+    "name": "OLNA SAMBOUW & AGOES SOEKARNO",
+    "maxGuests": 2
+  },
+  {
+    "name": "RATNA SIANTURI",
+    "maxGuests": 2
+  },
+  {
+    "name": "RISMA IDA DAMERIA NASUTION",
+    "maxGuests": 2
+  },
+  {
+    "name": "SANTUN HUTAGALUNG & THERESIA O SIAHAAN",
+    "maxGuests": 2
+  },
+  {
+    "name": "SISCA SITOMPUL PONTOH",
+    "maxGuests": 2
+  },
+  {
+    "name": "SRI HIDAYAT",
+    "maxGuests": 2
+  },
+  {
+    "name": "SRI RAHAYU SIMANJUNTAK",
+    "maxGuests": 2
+  },
+  {
+    "name": "SRI SETYO SIAHAAN  (ANDAYANI)",
+    "maxGuests": 2
+  },
+  {
+    "name": "SUANDI TANDIRERUNG & PATRICIA MARINA FARIDA",
+    "maxGuests": 2
+  },
+  {
+    "name": "TITA MEUTHIA DAILI",
+    "maxGuests": 2
+  },
+  {
+    "name": "TOM SURYADI & LINAWATI SURJADI",
+    "maxGuests": 2
+  },
+  {
+    "name": "WELLINGTON HUTAPEA",
+    "maxGuests": 2
+  },
+  {
+    "name": "WIWIE SUMARDI",
+    "maxGuests": 2
+  },
+  {
+    "name": "OPA SARWONO & OMA NING",
+    "maxGuests": 2
+  },
+  {
+    "name": "OM ADIT & TANTE YEYEN",
+    "maxGuests": 3
+  },
+  {
+    "name": "TANTE GIA & OM ARGO",
+    "maxGuests": 3
+  },
+  {
+    "name": "MBA LINA & MAS KRIS",
+    "maxGuests": 5
+  },
+  {
+    "name": "TOENS",
+    "maxGuests": 5
+  },
+  {
+    "name": "RAMBO",
+    "maxGuests": 2
+  },
+  {
+    "name": "MAMA PAPA",
+    "maxGuests": 2
+  },
+  {
+    "name": "PAPA & VENTY",
+    "maxGuests": 2
+  },
+  {
+    "name": "YOGA & PUTRI",
+    "maxGuests": 2
+  },
+  {
+    "name": "ANDRE & STELLA & TANTE DIANA",
+    "maxGuests": 5
+  },
+  {
+    "name": "GANDHI & WULAN",
+    "maxGuests": 4
+  },
+  {
+    "name": "MAS BUDI & FAM",
+    "maxGuests": 4
+  },
+  {
+    "name": "JENNY T",
+    "maxGuests": 2
+  },
+  {
+    "name": "WIWIT ANDI",
+    "maxGuests": 2
+  },
+  {
+    "name": "MIMI TOBING",
+    "maxGuests": 2
+  },
+  {
+    "name": "CYNTIA WATUNG",
+    "maxGuests": 2
+  },
+  {
+    "name": "SIENNY PAULINA",
+    "maxGuests": 2
+  },
+  {
+    "name": "ARDI WARDANA",
+    "maxGuests": 2
+  },
+  {
+    "name": "BONAR NASUTION",
+    "maxGuests": 2
+  },
+  {
+    "name": "BUDIWATY RUSANDY",
+    "maxGuests": 2
+  },
+  {
+    "name": "MARIA ELIZABETH & EYANG SOEGI",
+    "maxGuests": 2
+  },
+  {
+    "name": "DEVYANA CECILIAWATI L",
+    "maxGuests": 2
+  }
+]
