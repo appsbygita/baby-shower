@@ -5,6 +5,7 @@ import VenueDetails from '@/components/VenueDetails'
 import RsvpForm from '@/components/RsvpForm'
 import './globals.css'
 import MessageBoard from '@/components/MessageBoard'
+import { Suspense } from 'react'
 
 export default function Home() {
   return (
@@ -18,8 +19,12 @@ export default function Home() {
       <main className="max-w-3xl mx-auto px-4 w-full grow space-y-12 mb-16">
         <StoryAndGallery />
         <VenueDetails />
-        <RsvpForm />
-        <MessageBoard />
+        <Suspense>
+          <RsvpForm />
+        </Suspense>
+        <Suspense>
+          <MessageBoard />
+        </Suspense>
       </main>
     </>
   )
