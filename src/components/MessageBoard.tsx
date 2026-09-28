@@ -1,6 +1,6 @@
 'use client'
 
-import { getMessages, submitMessage } from '@/app/actions/messageActions'
+import { getMessages, submitMessage } from '@/actions/messageActions'
 import { useActionState, useEffect, useRef, useState } from 'react'
 import MessageCard from './MessageCard'
 import { Message } from '@/payload-types'

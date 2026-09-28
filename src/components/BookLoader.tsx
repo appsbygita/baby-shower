@@ -1,6 +1,6 @@
 'use client'
 
-import { getName } from '@/app/actions/dbActions'
+import { getName } from '@/actions/dbActions'
 import { useSearchParams } from 'next/navigation'
 import { useState, useEffect } from 'react'
 

@@ -1,6 +1,6 @@
 'use client'
 
-import { getGuest, updateRsvp } from '@/app/actions/dbActions'
+import { getGuest, updateRsvp } from '@/actions/dbActions'
 import { Guest } from '@/payload-types'
 import { useSearchParams } from 'next/navigation'
 import { useEffect, useState } from 'react'

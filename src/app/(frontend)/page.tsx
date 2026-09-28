@@ -18,8 +18,8 @@ export default function Home() {
       <main className="max-w-3xl mx-auto px-4 w-full grow space-y-12 mb-16">
         <StoryAndGallery />
         <VenueDetails />
-        {/* <RsvpForm />
-        <MessageBoard /> */}
+        <RsvpForm />
+        <MessageBoard />
       </main>
     </>
   )
