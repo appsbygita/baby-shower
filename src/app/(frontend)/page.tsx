@@ -11,7 +11,9 @@ export default function Home() {
   return (
     <>
       {/* 3D Book Cover Intro Overlay */}
-      {/* <BookLoader /> */}
+      <Suspense>
+        <BookLoader />
+      </Suspense>
 
       {/* Main Page Layout */}
       <HeroHeader />
