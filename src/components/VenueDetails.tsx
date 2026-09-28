@@ -12,7 +12,12 @@ export default function VenueDetails() {
 
       <InfoCards />
 
-      <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 pt-2">
+      <div className="text-center mt-6">
+        <p className="text-base text-charcoal/80 leading-relaxed">
+          <span className="font-semibold">Dress Code:</span> Garden Casual, pastel colors
+        </p>
+      </div>
+      {/* <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 pt-2">
         <div className="p-4 rounded-2xl bg-cream/40 border border-terracotta/10 space-y-2">
           <h3 className="font-semibold text-sm text-eucalyptus flex items-center gap-2">
             🚗 Parking Instructions
@@ -28,7 +33,7 @@ export default function VenueDetails() {
           </h3>
           <p className="text-sm text-charcoal/80 leading-relaxed">Garden Casual, pastel colors</p>
         </div>
-      </div>
+      </div> */}
     </section>
   )
 }

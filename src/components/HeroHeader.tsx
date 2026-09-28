@@ -5,11 +5,12 @@ export default function HeroHeader() {
         <span className="inline-block uppercase tracking-widest text-xs font-semibold text-eucalyptus px-3.5 py-1.5 bg-peach-light rounded-full border border-terracotta/10">
           You're Invited
         </span>
-        <h1 className="font-serif text-4xl sm:text-6xl font-semibold text-terracotta tracking-tight">
+        <h1 className="font-serif text-4xl sm:text-6xl font-semibold text-terracotta tracking-tigh mb-6">
           Ibadah Syukur
+          <br /> 7 Bulanan
         </h1>
         <p className="text-charcoal/80 text-base sm:text-xl italic font-serif">
-          Menyambut kehadiran buah hati kami dengan penuh sukacita.
+          “Ia membuat segala sesuatu indah pada waktunya.” Pengkhotbah 3:11
         </p>
       </div>
     </header>

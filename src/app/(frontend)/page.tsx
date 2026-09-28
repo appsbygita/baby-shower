@@ -7,6 +7,7 @@ import './globals.css'
 import MessageBoard from '@/components/MessageBoard'
 import { Suspense } from 'react'
 import Schedule from '@/components/Schedule'
+import InvitingStatement from '@/components/InvitingStatement'
 
 export default function Home() {
   return (
@@ -26,6 +27,7 @@ export default function Home() {
         <Suspense>
           <RsvpForm />
         </Suspense>
+        <InvitingStatement />
         <Suspense>
           <MessageBoard />
         </Suspense>
