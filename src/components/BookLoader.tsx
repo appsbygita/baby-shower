@@ -30,9 +30,9 @@ export default function BookLoader() {
         isOpen ? 'book-open' : ''
       }`}
     >
-      <div className="whole-book relative w-full max-w-sm h-[480px] bg-white rounded-r-2xl shadow-2xl border-y border-r border-terracotta/20 flex flex-col justify-center items-center text-center p-6">
+      <div className="whole-book relative w-full max-w-sm h-120 bg-white rounded-r-2xl shadow-2xl border-y border-r border-terracotta/20 flex flex-col justify-center items-center text-center p-6">
         {/* Back Spine Effect */}
-        <div className="absolute left-0 top-0 bottom-0 w-5 bg-gradient-to-r from-terracotta-dark/20 to-transparent z-10" />
+        <div className="absolute left-0 top-0 bottom-0 w-5 bg-linear-to-r from-terracotta-dark/20 to-transparent z-10" />
 
         {/* 3D Flipping Front Cover */}
         <div className="book-cover absolute inset-0 bg-terracota rounded-r-2xl border-l-8 border-terracotta-dark shadow-2xl flex flex-col items-center justify-between p-8 text-white z-20">
