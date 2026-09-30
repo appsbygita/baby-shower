@@ -8,6 +8,7 @@ import MessageBoard from '@/components/MessageBoard'
 import { Suspense } from 'react'
 import Schedule from '@/components/Schedule'
 import InvitingStatement from '@/components/InvitingStatement'
+import CountdownClock from '@/components/CountdownClock'
 
 export default function Home() {
   return (
@@ -27,6 +28,7 @@ export default function Home() {
         <Suspense>
           <RsvpForm />
         </Suspense>
+        <CountdownClock />
         <InvitingStatement />
         <Suspense>
           <MessageBoard />

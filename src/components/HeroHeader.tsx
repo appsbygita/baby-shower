@@ -10,7 +10,9 @@ export default function HeroHeader() {
           <br /> 7 Bulanan
         </h1>
         <p className="text-charcoal/80 text-base sm:text-xl italic font-serif">
-          “Ia membuat segala sesuatu indah pada waktunya.” Pengkhotbah 3:11
+          “Tuhan telah melakukan perbuatan besar kepada kita, maka kita bersukacita”
+          <br />
+          Mazmur 126:3
         </p>
       </div>
     </header>

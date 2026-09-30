@@ -5,7 +5,7 @@ export default function VenueDetails() {
     <section className="bg-cream rounded-3xl p-6 sm:p-10 border border-terracotta/10 shadow-sm space-y-4">
       <div className="text-center">
         <h2 className="font-serif text-2xl sm:text-3xl font-semibold text-charcoal/80 mb-8">
-          Event Details
+          Waktu & Tempat
         </h2>
         {/* <p className="text-xs text-charcoal/60 mt-1">Getting here and parking information</p> */}
       </div>

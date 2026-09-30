@@ -108,7 +108,7 @@ export default function RsvpForm() {
                   required
                   className="accent-terracotta"
                 />
-                <span className="text-sm font-medium text-charcoal">Tidak Hadir :(</span>
+                <span className="text-sm font-medium text-charcoal">Berhalangan Hadir :(</span>
               </label>
             </div>
           </div>
@@ -138,7 +138,7 @@ export default function RsvpForm() {
               </select>
             </div>
 
-            <div className="sm:col-span-2">
+            {/* <div className="sm:col-span-2">
               <label
                 htmlFor="dietary"
                 className="block text-xs font-semibold uppercase tracking-wider text-eucalyptus mb-2"
@@ -153,7 +153,7 @@ export default function RsvpForm() {
                 className="w-full px-4 py-3 rounded-xl border border-terracotta/20 bg-white text-charcoal focus:outline-none focus:ring-2 focus:ring-terracotta/50 focus:bg-white transition"
                 defaultValue={guest?.dietaryRestrictions || ''}
               />
-            </div>
+            </div> */}
           </div>
 
           {/* <div>

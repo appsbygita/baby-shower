@@ -7,7 +7,7 @@ export default function InfoCards() {
         </div>
         <h3 className="font-semibold text-xs uppercase tracking-wider text-eucalyptus">Tanggal</h3>
         <p className="text-charcoal font-medium">Sabtu, 7 November 2026</p>
-        <p className="text-xs text-charcoal/60">16:00 - 20:00 WIB</p>
+        <p className="text-xs text-charcoal/60">16:00 WIB - selesai</p>
       </div>
 
       <div className="bg-cream p-6 rounded-2xl shadow-sm border border-terracotta/10 text-center space-y-1">
