@@ -10,7 +10,7 @@ export default function CountdownClock() {
 
   useEffect(() => {
     // Set the date we're counting down to
-    let countDownDate = new Date('Nov 7, 2026 16:00:00').getTime()
+    let countDownDate = new Date(Date.UTC(2026, 10, 7, 9, 0, 0)).getTime()
     // Update the count down every 1 second
     let x = setInterval(function () {
       // Get today's date and time
