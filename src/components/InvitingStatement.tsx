@@ -13,8 +13,8 @@ export default function InvitingStatement() {
           Dave & Poppy sekeluarga 🤍
         </p>
         <p className="text-charcoal/80 text-sm sm:text-base leading-relaxed max-w-xl mx-auto italic font-serif mt-14">
-          “Ia membuat segala sesuatu indah pada waktunya.”
-          <br /> — Pengkhotbah 3:11
+          “Tuhan telah melakukan perbuatan besar kepada kita, maka kita bersukacita.”
+          <br /> — Mazmur 126:3
         </p>
       </div>
     </section>
