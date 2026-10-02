@@ -11,7 +11,7 @@ export default function StoryAndGallery() {
           Dengan penuh sukacita dan ucapan syukur kepada Tuhan, kami,
         </p>
         <p className="text-charcoal/80 text-sm sm:text-base leading-relaxed max-w-xl mx-auto">
-          DAVE & POPPY
+          DAVE ADITYA & POPPY
         </p>
         <p className="text-charcoal/80 text-sm sm:text-base leading-relaxed max-w-xl mx-auto">
           mengundang Bapak/Ibu/Saudara/i untuk hadir dan bersama-sama merayakan Ibadah Syukur 7

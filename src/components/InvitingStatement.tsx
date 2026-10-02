@@ -10,7 +10,7 @@ export default function InvitingStatement() {
           Dengan penuh kasih dan ucapan syukur,
         </p>
         <p className="text-charcoal/80 text-sm sm:text-base leading-relaxed max-w-xl mx-auto">
-          Dave & Poppy sekeluarga 🤍
+          Dave Aditya & Poppy sekeluarga 🤍
         </p>
         <p className="text-charcoal/80 text-sm sm:text-base leading-relaxed max-w-xl mx-auto italic font-serif mt-14">
           “Tuhan telah melakukan perbuatan besar kepada kita, maka kita bersukacita.”
