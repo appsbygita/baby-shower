@@ -98,7 +98,7 @@ export default function RsvpForm() {
                   required
                   className="accent-terracotta"
                 />
-                <span className="text-sm font-medium text-charcoal">Hadir :)</span>
+                <span className="text-sm font-medium text-charcoal">Hadir</span>
               </label>
               <label className="flex items-center justify-center gap-2 p-3 rounded-xl border border-terracotta/20 bg-cream/30 cursor-pointer hover:bg-peach-light/40 transition">
                 <input
@@ -108,7 +108,7 @@ export default function RsvpForm() {
                   required
                   className="accent-terracotta"
                 />
-                <span className="text-sm font-medium text-charcoal">Berhalangan Hadir :(</span>
+                <span className="text-sm font-medium text-charcoal">Berhalangan Hadir</span>
               </label>
             </div>
           </div>
