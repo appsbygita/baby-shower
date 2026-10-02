@@ -34,7 +34,7 @@ export default function StoryAndGallery() {
         </p>
 
         <div className="overflow-hidden rounded-3xl w-fit mx-auto mt-12">
-          <Image src="/img/pic.jpeg" alt="Dave & Poppy" width={300} height={300} />
+          <Image src="/img/beach-edit.png" alt="Dave & Poppy" width={1000} height={1000} />
         </div>
       </div>
 

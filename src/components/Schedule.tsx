@@ -12,7 +12,7 @@ export default function Schedule() {
 
       <div className="relative border-l-2 border-terracotta/20 ml-4 sm:ml-32 space-y-6 py-2">
         <div className="relative pl-6">
-          <div className="absolute -left-[9px] top-1 w-4 h-4 rounded-full bg-eucalyptus border-4 border-white" />
+          <div className="absolute -left-2.25 top-1 w-4 h-4 rounded-full bg-eucalyptus border-4 border-white" />
           <span className="sm:absolute sm:-left-32 sm:top-0 text-xs font-bold text-eucalyptus tracking-wider uppercase">
             16:00 WIB
           </span>
@@ -21,7 +21,7 @@ export default function Schedule() {
         </div>
 
         <div className="relative pl-6">
-          <div className="absolute -left-[9px] top-1 w-4 h-4 rounded-full bg-eucalyptus border-4 border-white" />
+          <div className="absolute -left-2.25 top-1 w-4 h-4 rounded-full bg-eucalyptus border-4 border-white" />
           <span className="sm:absolute sm:-left-32 sm:top-0 text-xs font-bold text-eucalyptus tracking-wider uppercase">
             16:30 WIB
           </span>
@@ -30,7 +30,7 @@ export default function Schedule() {
         </div>
 
         <div className="relative pl-6">
-          <div className="absolute -left-[9px] top-1 w-4 h-4 rounded-full bg-eucalyptus border-4 border-white" />
+          <div className="absolute -left-2.25 top-1 w-4 h-4 rounded-full bg-eucalyptus border-4 border-white" />
           <span className="sm:absolute sm:-left-32 sm:top-0 text-xs font-bold text-eucalyptus tracking-wider uppercase">
             17:30 WIB
           </span>
