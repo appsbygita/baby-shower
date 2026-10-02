@@ -32,7 +32,7 @@ export default function Schedule() {
         <div className="relative pl-6">
           <div className="absolute -left-[9px] top-1 w-4 h-4 rounded-full bg-eucalyptus border-4 border-white" />
           <span className="sm:absolute sm:-left-32 sm:top-0 text-xs font-bold text-eucalyptus tracking-wider uppercase">
-            18:30 WIB
+            17:30 WIB
           </span>
           {/* <h3 className="font-semibold text-base text-charcoal">Ramah tamah</h3> */}
           <p className="text-base text-eucalyptus">Ramah tamah dan makan malam bersama.</p>

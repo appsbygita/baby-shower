@@ -48,7 +48,7 @@ export default function CountdownClock() {
         </div>
         <a
           className="flex w-fit mt-6 mx-auto bg-eucalyptus hover:cursor-pointer hover:bg-terracotta-dark text-white font-semibold py-3.5 px-6 rounded-xl shadow-md transition duration-200 transform active:scale-[0.99] disabled:opacity-50"
-          href="https://calendar.google.com/calendar/render?action=TEMPLATE&text=Ibadah+Syukur+7+Bulanan+Dave+dan+Poppy&dates=20261107T160000/20261107T200000&ctz=Indonesia/Jakarta"
+          href="https://calendar.google.com/calendar/render?action=TEMPLATE&text=Ibadah+Syukur+7+Bulanan+Dave+dan+Poppy&dates=20261107T160000/20261107T190000&ctz=Indonesia/Jakarta"
           target="_blank"
           rel="noopener noreferrer"
         >
