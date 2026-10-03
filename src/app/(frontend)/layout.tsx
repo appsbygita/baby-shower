@@ -15,7 +15,7 @@ const playfair = Playfair_Display({
 })
 
 export const metadata: Metadata = {
-  title: 'Ibadah Syukur Aditya dan Poppy',
+  title: 'Undangan Ibadah Syukur Dave Aditya dan Poppy',
   description:
     'Mengundang Anda untuk merayakan momen bahagia kami dalam menyambut kehadiran buah hati kami.',
 }
