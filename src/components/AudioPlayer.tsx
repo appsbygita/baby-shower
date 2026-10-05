@@ -40,7 +40,7 @@ export default function AudioPlayer({ isOpened }: { isOpened: boolean }) {
         )}
       </button>
       <audio autoPlay loop ref={audioRef}>
-        <source src="/audio/mickeyscat-moment-of-peace.mp3" type="audio/mpeg" />
+        <source src="/audio/turn-your-eyes.mp3" type="audio/mpeg" />
       </audio>
     </div>
   )
