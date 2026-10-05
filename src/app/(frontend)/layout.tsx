@@ -28,7 +28,11 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       >
         {children}
         <footer className="py-8 text-center text-xs text-charcoal/50 bg-cream border-t border-terracotta/10">
-          <p>Designed with love</p>
+          <p>
+            <a href="https://www.swarna.agency/" target="_blank" rel="noopener noreferrer">
+              Made with love
+            </a>
+          </p>
         </footer>
       </body>
     </html>
