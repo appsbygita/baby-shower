@@ -15,7 +15,7 @@ export default function BookLoader() {
     // Auto-open invitation after 2.3 seconds
     const timer = setTimeout(() => {
       setIsOpen(true)
-    }, 2300)
+    }, 4000)
     return () => clearTimeout(timer)
   }, [])
 
