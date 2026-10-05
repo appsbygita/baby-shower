@@ -1,4 +1,3 @@
-import BookLoader from '@/components/BookLoader'
 import HeroHeader from '@/components/HeroHeader'
 import StoryAndGallery from '@/components/StoryAndGallery'
 import VenueDetails from '@/components/VenueDetails'
@@ -9,14 +8,14 @@ import { Suspense } from 'react'
 import Schedule from '@/components/Schedule'
 import InvitingStatement from '@/components/InvitingStatement'
 import CountdownClock from '@/components/CountdownClock'
+import AudioPlayer from '@/components/AudioPlayer'
+import BookPlay from '@/components/BookPlay'
 
 export default function Home() {
   return (
     <>
       {/* 3D Book Cover Intro Overlay */}
-      <Suspense>
-        <BookLoader />
-      </Suspense>
+      <BookPlay />
 
       {/* Main Page Layout */}
       <HeroHeader />

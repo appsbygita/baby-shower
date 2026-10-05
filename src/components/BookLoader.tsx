@@ -4,20 +4,21 @@ import { getName } from '@/actions/dbActions'
 import { useSearchParams } from 'next/navigation'
 import { useState, useEffect } from 'react'
 
-export default function BookLoader() {
+export default function BookLoader({ onOpen }: { onOpen: (value: boolean) => void }) {
   const [isOpen, setIsOpen] = useState(false)
   const [guestName, setGuestName] = useState('')
 
   const handleOpen = () => {
     setIsOpen(true)
+    onOpen(true)
   }
-  useEffect(() => {
-    // Auto-open invitation after 2.3 seconds
-    const timer = setTimeout(() => {
-      setIsOpen(true)
-    }, 4000)
-    return () => clearTimeout(timer)
-  }, [])
+  // useEffect(() => {
+  //   // Auto-open invitation after 2.3 seconds
+  //   const timer = setTimeout(() => {
+  //     setIsOpen(true)
+  //   }, 4000)
+  //   return () => clearTimeout(timer)
+  // }, [])
 
   const searchParams = useSearchParams()
   useEffect(() => {
@@ -49,7 +50,10 @@ export default function BookLoader() {
               {/* <p className="text-xs text-peach-light font-serif italic">Baby Shower Celebration</p> */}
             </div>
 
-            <button className="px-5 py-2.5 bg-cream text-terracota rounded-full font-semibold text-xs tracking-wider uppercase shadow-md hover:bg-white transition transform active:scale-95">
+            <button
+              className="px-5 py-2.5 bg-cream text-terracota rounded-full font-semibold text-xs tracking-wider uppercase shadow-md hover:bg-white transition transform active:scale-95"
+              onClick={handleOpen}
+            >
               Open Invitation
             </button>
           </div>
