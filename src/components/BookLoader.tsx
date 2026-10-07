@@ -44,6 +44,9 @@ export default function BookLoader({ onOpen }: { onOpen: (value: boolean) => voi
 
             <div className="space-y-2">
               <span className="text-3xl">✨</span>
+              <h2 className="font-serif text-base font-semibold tracking-wide text-white mt-2 mb-0">
+                Bpk/Ibu/Sdr/i
+              </h2>
               <h2 className="font-serif text-xl font-semibold tracking-wide text-white">
                 {guestName || 'Tamu Undangan'}
               </h2>
