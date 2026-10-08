@@ -54,7 +54,7 @@ export default function MessageBoard() {
         <h2 className="font-serif text-2xl sm:text-3xl font-semibold text-terracotta">
           Untaian Salam
         </h2>
-        <p className="text-sm text-charcoal/70 mt-1">Sampaikan pesan dan ucapan selamat Anda</p>
+        <p className="text-sm text-charcoal/70 mt-1">Sampaikan pesan dan ucapan selamat</p>
       </div>
 
       <form className={`space-y-6`} ref={formRef} action={formAction}>
@@ -70,6 +70,7 @@ export default function MessageBoard() {
             id="name"
             name="name"
             required
+            placeholder="Nama"
             className="w-full px-4 py-3 rounded-xl border border-terracotta/20 bg-white text-charcoal focus:outline-none focus:ring-2 focus:ring-terracotta/50 focus:bg-white transition"
           />
         </div>
@@ -86,7 +87,7 @@ export default function MessageBoard() {
             name="message"
             required
             rows={3}
-            placeholder="Tidak sabar untuk merayakan bersama Anda!"
+            placeholder="Tidak sabar untuk merayakan bersama!"
             className="w-full px-4 py-3 rounded-xl border border-terracotta/20 bg-white text-charcoal focus:outline-none focus:ring-2 focus:ring-terracotta/50 focus:bg-white transition resize-none"
           />
         </div>
